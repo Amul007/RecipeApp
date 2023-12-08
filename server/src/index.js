@@ -14,5 +14,5 @@ mongoose.connect("mongodb+srv://amul48:amulge48100@cluster0.urjoqxs.mongodb.net/
   useUnifiedTopology: true
 });
 
-app.listen(3001, () => console.log("Server chal raha reh"));
+app.listen(3001, () => console.log("Server chal raha reh be"));
 
